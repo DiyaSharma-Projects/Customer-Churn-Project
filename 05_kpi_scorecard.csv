@@ -1,0 +1,6 @@
+Category,Metric,Value
+Overview,Total Customers,36993
+Overview,Churn Rate,24.73%
+Risk,High Risk Customers,7
+Model,Best Model,Gradient Boosting
+Model,ROC-AUC,0.49648704234114094

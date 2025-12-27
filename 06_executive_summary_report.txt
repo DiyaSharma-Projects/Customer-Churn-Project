@@ -1,0 +1,10 @@
+
+EXECUTIVE SUMMARY REPORT
+Generated: 2025-12-27 11:50:06
+
+Total Customers: 36,993
+Churn Rate: 24.73%
+
+High Risk Customers: 7
+Best Model: Gradient Boosting
+ROC-AUC: 0.4965
